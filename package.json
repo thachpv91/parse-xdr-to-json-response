@@ -1,0 +1,32 @@
+{
+  "name": "parse-xdr-to-json-response",
+  "version": "0.0.1",
+  "description": "A tiny library that parse contents of a Triam XDR blob to JSON format",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./test"
+  },
+  "author": "thachphanvan@gmail.com",
+  "dependencies": {
+    "bignumber.js": "^8.1.1",
+    "stellar-sdk": "^0.15.4"
+  },
+  "keywords": [
+    "stellar",
+    "xdr",
+    "xdrViewer",
+    "triam"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/thachpv91/parse-xdr-to-json-response.git"
+  },
+  "engines": {
+    "node": ">=6.14.0"
+  },
+  "license": "MIT License",
+  "bugs": {
+    "url": "https://github.com/thachpv91/parse-xdr-to-json-response/issues"
+  },
+  "homepage": "https://github.com/thachpv91/parse-xdr-to-json-response"
+}
