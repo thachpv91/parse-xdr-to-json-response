@@ -1,6 +1,6 @@
 {
   "name": "parse-tx-xdr-to-json-response",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "A tiny library that parse contents of a Triam XDR blob to JSON format",
   "main": "index.js",
   "scripts": {
