@@ -9,7 +9,7 @@
   "author": "thachphanvan@gmail.com",
   "dependencies": {
     "bignumber.js": "^8.1.1",
-    "stellar-sdk": "^0.15.4"
+    "triam-sdk": "0.0.1"
   },
   "keywords": [
     "stellar",
